@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/somai-dashboard/frontend/static/css/main.5ecd60fb.chunk.css",
-    "main.js": "/somai-dashboard/frontend/static/js/main.401fdc08.chunk.js",
-    "main.js.map": "/somai-dashboard/frontend/static/js/main.401fdc08.chunk.js.map",
-    "runtime-main.js": "/somai-dashboard/frontend/static/js/runtime-main.f83bf5bf.js",
-    "runtime-main.js.map": "/somai-dashboard/frontend/static/js/runtime-main.f83bf5bf.js.map",
-    "static/js/2.24fc2041.chunk.js": "/somai-dashboard/frontend/static/js/2.24fc2041.chunk.js",
-    "static/js/2.24fc2041.chunk.js.map": "/somai-dashboard/frontend/static/js/2.24fc2041.chunk.js.map",
-    "index.html": "/somai-dashboard/frontend/index.html",
-    "precache-manifest.7436929d6920c2cea3ebc7574097656f.js": "/somai-dashboard/frontend/precache-manifest.7436929d6920c2cea3ebc7574097656f.js",
-    "service-worker.js": "/somai-dashboard/frontend/service-worker.js",
-    "static/css/main.5ecd60fb.chunk.css.map": "/somai-dashboard/frontend/static/css/main.5ecd60fb.chunk.css.map",
-    "static/js/2.24fc2041.chunk.js.LICENSE.txt": "/somai-dashboard/frontend/static/js/2.24fc2041.chunk.js.LICENSE.txt"
+    "main.css": "/somai-dashboad-frontend/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/somai-dashboad-frontend/static/js/main.401fdc08.chunk.js",
+    "main.js.map": "/somai-dashboad-frontend/static/js/main.401fdc08.chunk.js.map",
+    "runtime-main.js": "/somai-dashboad-frontend/static/js/runtime-main.fd8033e4.js",
+    "runtime-main.js.map": "/somai-dashboad-frontend/static/js/runtime-main.fd8033e4.js.map",
+    "static/js/2.1e5080a2.chunk.js": "/somai-dashboad-frontend/static/js/2.1e5080a2.chunk.js",
+    "static/js/2.1e5080a2.chunk.js.map": "/somai-dashboad-frontend/static/js/2.1e5080a2.chunk.js.map",
+    "index.html": "/somai-dashboad-frontend/index.html",
+    "precache-manifest.5f372b409bd9f92866553fada9026afc.js": "/somai-dashboad-frontend/precache-manifest.5f372b409bd9f92866553fada9026afc.js",
+    "service-worker.js": "/somai-dashboad-frontend/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/somai-dashboad-frontend/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.1e5080a2.chunk.js.LICENSE.txt": "/somai-dashboad-frontend/static/js/2.1e5080a2.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.f83bf5bf.js",
-    "static/js/2.24fc2041.chunk.js",
+    "static/js/runtime-main.fd8033e4.js",
+    "static/js/2.1e5080a2.chunk.js",
     "static/css/main.5ecd60fb.chunk.css",
     "static/js/main.401fdc08.chunk.js"
   ]
