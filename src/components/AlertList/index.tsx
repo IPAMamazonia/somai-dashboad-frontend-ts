@@ -52,9 +52,9 @@ const ListAlerts: React.FC = () => {
               <TableCell>{row.name}</TableCell>
               <TableCell>{row.shipTo}</TableCell>
               <TableCell align="center">
-                <span className="icon"><CloudDownloadIcon /></span>
-                <span className="icon"><ShareIcon /></span>
-                <span className="icon"><DeleteForeverIcon /></span>
+                <span className="icon" title="Download"><CloudDownloadIcon /></span>
+                <span className="icon" title="Compartilhar"><ShareIcon /></span>
+                <span className="icon" title="Deletar"><DeleteForeverIcon /></span>
               </TableCell>
             </TableRow>
           ))}
