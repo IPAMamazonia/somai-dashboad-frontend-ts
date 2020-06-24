@@ -19,16 +19,10 @@
     "noImplicitAny": true,
     "noEmit": true,
     "jsx": "react",
-    "baseUrl": "./src",
-    "paths": {
-      "assets/*": ["./assets/*"],
-      "components/*": ["./components/*"],
-      "pages/*": ["./pages/*"],
-      "services/*": ["./services/*"],
-      "styles/*": ["./styles/*"]
-    }
+    "baseUrl": "./src"
   },
   "include": [
     "src"
   ],
+  "extends": "./tsconfig.paths.json",
 }
