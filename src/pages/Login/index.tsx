@@ -11,7 +11,7 @@ import LockOpenIcon from '@material-ui/icons/LockOpen';
 import Typography from '@material-ui/core/Typography';
 import Container from '@material-ui/core/Container';
 
-import { Paper } from './styles';
+import { Paper } from 'pages/Login/styles';
 
 interface IProps {
     history: string[]
@@ -20,9 +20,9 @@ interface IProps {
 const Login: React.FC<IProps> = (props) => {
     const { history } = props;
 
-    // const onSignIn = () => {
-    //     history.push('/dashboard/meus-alertas')
-    // }
+    const onSignIn = () => {
+        history.push('/dashboard/meus-alertas')
+    }
 
     return (
         <Container component="main" maxWidth="xs">
@@ -67,6 +67,7 @@ const Login: React.FC<IProps> = (props) => {
                         variant="contained"
                         color="primary"
                         className="submit"
+                        onClick={onSignIn}
                     >
                         Logar
                     </Button>
