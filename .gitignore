@@ -8,12 +8,13 @@
 # testing
 /coverage
 
+# descomentar ao subir para produção
 #src/*
 #public/*
 #build/static/css/*.map
 #build/static/js/*.map
 
-# production
+# comentar ao subir para produção
 /build
 
 # misc

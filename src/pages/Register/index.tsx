@@ -13,7 +13,7 @@ import { Paper } from 'pages/Register/styles';
 
 const Register: React.FC = () => {
     return (
-        <Container component="main" maxWidth="xs">
+        <Container component="main" maxWidth="sm">
             <CssBaseline />
             <Paper>
                 <Avatar className="avatar">
@@ -44,6 +44,16 @@ const Register: React.FC = () => {
                                 id="lastName"
                                 label="Último nome"
                                 name="lastName"
+                                autoComplete="lname"
+                            />
+                        </Grid>
+                        <Grid item xs={12} sm={12}>
+                            <TextField
+                                variant="outlined"
+                                fullWidth
+                                id="organization"
+                                label="Organização / Terra Indígena / Comunidade"
+                                name="organization"
                                 autoComplete="lname"
                             />
                         </Grid>
